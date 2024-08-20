@@ -1,0 +1,1 @@
+WorldMapPOIFrame.Show=function()end;WorldMapPOIFrame:Hide()

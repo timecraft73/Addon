@@ -1,0 +1,7 @@
+## Interface: 60200
+## Title: Map POI removal
+## X-Curse-Packaged-Version: r2
+## X-Curse-Project-Name: World Map point of interest removal
+## X-Curse-Project-ID: world-map-point-interest-removal
+## X-Curse-Repository-ID: wow/world-map-point-interest-removal/mainline
+MapPOIremoval.lua
